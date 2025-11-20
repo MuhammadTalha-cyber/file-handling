@@ -1,0 +1,4 @@
+Name: talha mahmood
+Account Number: 123
+Amount: 2300
+--------------------------
